@@ -1,0 +1,18 @@
+h1 {
+	background:red;
+	font-size: 20 px;
+	color:white;
+	font-style: eurostile;
+	}
+ul{
+	border:2px solid black;
+	padding: 2px;
+	margin: 2px;
+}
+.nav-bar{
+	background: yellow;
+}
+.nav-bar li{
+float: left;
+width: 100%;
+}
